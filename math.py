@@ -12,4 +12,4 @@ print("  x  |  y")
 print("-----|-----")
 for _ in range(10):
 	y()
-	x = x + 1
+	x += 1
